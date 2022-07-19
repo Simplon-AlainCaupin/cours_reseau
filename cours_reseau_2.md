@@ -19,9 +19,12 @@ Exemple de requête http :
 CRLF = Carriage Return Line Feed   
 (CR retour à la ligne, LF remplissage de ligne)  
 
-En réponse on a : Status-Line = HTTP-Version SP Status-Code SP Reason-Phrase CRLF  
+En réponse on a :  
+
+    Status-Line = HTTP-Version SP Status-Code SP Reason-Phrase CRLF  
+    Headers (set-cookie : ....  
+         content-length : ....) CRLF  
+    BODY => (html, js ...)
 
 eg : [status-line](https://datatracker.ietf.org/doc/html/rfc2616#section-6.1)  
-
-
 
