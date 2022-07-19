@@ -4,8 +4,7 @@ Couche 1 : couche physique
 Couche 2 : couche liaison (adressage physique MAC)  
 Couche 3 : couche IP, avec protocole IPv4, adresses, relations entre réseaux et sous réseaux, routing  
 
-<br>
-Couche transport : TCP et UDP
+Couche 4, Couche transport : TCP et UDP
 elle assure qu'un message soit transmis d'un processus vers un autre  
 
 Les adresses de cette couche sont les "ports", sur 16 bits  soit 65535 ports maximum  
