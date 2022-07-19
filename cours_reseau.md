@@ -28,4 +28,5 @@ envoi de la requête -> numéro de séquence -> réponse à la requête (ack.)
 TCP est un protocole orienté "stream"  
 Il y a un "handshake" entre les 2 processus -> échange de paquets avec des "flags"  
 
-![udpexch](https://github.com/Simplon-AlainCaupin/cours_reseau/blob/75f76754c76a271155efcf5bc9051a4d06c1eed1/IMG/screen3_udp-between-processes.png)
+![udpexch](https://github.com/Simplon-AlainCaupin/cours_reseau/blob/75f76754c76a271155efcf5bc9051a4d06c1eed1/IMG/screen3_udp-between-processes.png)  
+
